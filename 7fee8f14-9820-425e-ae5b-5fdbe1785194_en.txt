@@ -36,11 +36,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Qirat-القيراط, the software program provided by the
+  * Application refers to Qirat-V1-القيراط, the software program provided by the
     Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Qirat-القيراط.
+    Agreement) refers to Qirat-V1-القيراط.
 
   * Country refers to: Egypt
 
@@ -323,4 +323,6 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By phone number: 00201003066551
+or Email : Mamdouh0Mabrouk@Gmail.com
+
 
